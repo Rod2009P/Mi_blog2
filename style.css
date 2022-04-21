@@ -1,0 +1,56 @@
+body {
+    text-align: center;
+    background: linear-gradient(#07a2f7,#F5F707);
+}
+.links
+{
+    color: #07a2f7;
+    text-decoration: none;
+    float: right;
+    padding-top: 5px;
+    font-size: 25px;
+    padding-left: 9px;
+    padding-right: 9px;
+    background-color: #F5F707;
+}
+#Pasatiempo1
+{
+    border-radius: 70%;
+    width: 250px;
+}
+#Pasatiempo2
+{
+    border-radius: 70%;
+    width: 250px;
+}
+#bio
+{
+    text-align: center;
+    font-family: 'Staatliches', cursive;
+    font-size: 20px;
+}
+#Pasatiempo3
+{
+    border-radius: 70%;
+    width: 250px;
+}
+#juego_favimg
+{
+    border-radius: 70%;
+    width: 250px;
+}
+#libro_favimg
+{
+    border-radius: 70%;
+    width: 250px;
+}
+#trabajo_imagen
+{
+    border-radius: 70%;
+    width: 250px;
+}
+#segundo_trabajo_imagen
+{
+    border-radius: 70%;
+    width: 250px;
+}
